@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am zeyneptekiner on github.
+  * I am evrenistik (https://keybase.io/evrenistik) on keybase.
+  * I have a public key ASDtzEQ1As8lml-RNQ9LPTnAtBhn14zcx6LJdl3WgLj6hQo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120edcc443502cf259a5f91350f4b3d39c0b41867d78cdcc7a2c9765dd680b8fa850a",
+      "host": "keybase.io",
+      "kid": "0120edcc443502cf259a5f91350f4b3d39c0b41867d78cdcc7a2c9765dd680b8fa850a",
+      "uid": "3e36ddf7d65642e8e4d0879f50615e19",
+      "username": "evrenistik"
+    },
+    "merkle_root": {
+      "ctime": 1523637556,
+      "hash": "6a05c93c9a384b918ced134b6c83960c8e594adc1f98f64f032942544b14058c1544357b294330877e8bb0091a7639aead9bbd2be3646c7a5760f83390934d06",
+      "hash_meta": "70fba7d6c92d74ab757c4cd706b2940557f34ae3288006742b1bee937f90390f",
+      "seqno": 2386199
+    },
+    "service": {
+      "entropy": "MB66VoKdpiUB2TdVQIql5/cm",
+      "name": "github",
+      "username": "zeyneptekiner"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1523637569,
+  "expire_in": 504576000,
+  "prev": "2da12ad5b6f5f3d9a306b09e1e2fc14108fb067820838a65f69bc68d9561d952",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+
+with the key [ASDtzEQ1As8lml-RNQ9LPTnAtBhn14zcx6LJdl3WgLj6hQo](https://keybase.io/evrenistik), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7cxENQLPJZpfkTUPSz05wLQYZ9eM3MeiyXZd1oC4+oUKp3BheWxvYWTESpcCCsQgLaEq1bb189mjBrCeHi/BQQj7Bnggg4pl9pvGjZVh2VLEIOBJPsN/YZIbdmV8oktHF7Lm5N2YFyJ4fEkt/OZ0QU2cAgHCo3NpZ8RAfR46xPUEKh1os1Bo6t4mo7bcl5QfgPzET0Ziz9mhF5j87wL/yiYBoirc8UudKj0PjeLNmJxNzIwOSnHH8P9UB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINmmq5fJ0QvbZ6iItcCdz0KNzMVF6px4TFoY+94ijskAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/evrenistik
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id evrenistik
